@@ -1,3 +1,5 @@
+### Kaggle Submission file, containing all necessary functions and classes ###
+
 def uct(obs, config, verbose=0):
     import numpy as np
     import random
