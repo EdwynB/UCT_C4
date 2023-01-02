@@ -3,7 +3,7 @@ import numpy as np
 
 class ConnectFour:
     """
-    Class for creating a connect four game
+    Connect four game's class
     """
 
     def __init__(self, height=6, width=7, player_just_moved=2):
